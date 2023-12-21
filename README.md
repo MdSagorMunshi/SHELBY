@@ -1,6 +1,7 @@
 # Shelby - Information Processing and Utility Application
 
 ![SHELBY Logo](shelby_logo.png)
+####
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MdSagorMunshi.SHELBY)](https://github.com/MdSagorMunshi/SHELBY)
 [![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)](https://github.com/MdSagorMunshi/GSHELBY)
